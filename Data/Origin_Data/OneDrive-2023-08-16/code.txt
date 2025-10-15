@@ -1,0 +1,1 @@
+-(W*AA)+(2*(sqrt(Z+AA^2)-AA*ln(AA*(AA+Sqrt(Z+AA^2))))+(Sqrt(Z/exp(J*W)+AA^2)*(exp((J*W)/2)*J*W*AA-2*Sqrt(Z+exp(J*W)*AA^2)+2*exp((J*W)/2)*AA*ln(AA*(AA+Sqrt(Z+exp(J*W)*AA^2)/exp((J*W)/2)))))/Sqrt(Z+exp(J*W)*AA^2))/J
